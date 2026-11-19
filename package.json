@@ -6,9 +6,9 @@
   "license": "MIT",
   "main": "websockify.js",
   "bugs": {
-    "url": "https://github.com/maximegris/node-websockify/issues"
+    "url": "https://github.com/belnadris/node-websockify/issues"
   },
-  "homepage": "https://github.com/maximegris/node-websockify#readme",
+  "homepage": "https://github.com/belnadris/node-websockify#readme",
   "keywords": [
     "websocket",
     "websockify",
@@ -19,7 +19,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maximegris/node-websockify.git"
+    "url": "git+https://github.com/belnadris/node-websockify.git"
   },
   "dependencies": {
     "mime-types": "^3.0.2",
